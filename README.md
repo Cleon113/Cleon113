@@ -15,10 +15,10 @@
 
 ---
 
-### `> whoami`
+### `> who am i`
 
 Fachinformatiker für Anwendungsentwicklung, currently based in Hamburg.  
-I came from Colombia 🇨🇴, lived in Italy 🇮🇹, ended up building software in Germany 🇩🇪.  
+I came from Colombia 🇨🇴, ended up building software in Germany 🇩🇪.  
 I like solving real problems with code — and I'm still figuring out a lot of things, which is exactly how I like it.
 
 ---
